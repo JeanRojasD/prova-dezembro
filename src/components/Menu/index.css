@@ -1,0 +1,12 @@
+.list-menu{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.list-menu li{
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+}
